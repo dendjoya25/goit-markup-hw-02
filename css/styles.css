@@ -114,7 +114,7 @@ background-color: #2e2f42
 }
 
 /* < !--=========== TEAM STYLES ===========--> */
-.third-section {
+.second-section {
     background-color: #FFFFFF
 }
 .team-title {
@@ -149,6 +149,9 @@ background-color: #2e2f42
 }
 
 /* < !--=========== PORTFOLIO STYLES ===========--> */
+.third-section {
+    background-color: #F4F4FD
+}
 .portfolio-title {
     font-weight: 700;
     font-size: 36px;
