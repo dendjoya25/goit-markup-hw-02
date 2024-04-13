@@ -15,7 +15,7 @@ button {
 
 body {
     font-family: "Roboto", sans-serif;
-    color: #434455
+    background-color: #FFFFFF
 }
 
 /*< !--=========== HEADER STYLES ===========--> */
@@ -67,6 +67,9 @@ body {
 }
 
 /* < !--=========== HERO STYLES ===========--> */
+.first-section {
+background-color: #2e2f42
+}
 .page-title {
     font-weight: 700;
     font-size: 56px;
@@ -154,6 +157,9 @@ body {
     color: #2e2f42;
     text-transform: capitalize;
 }
+.portfolio-list {
+    background-color: #FFFFFF
+}
 
 .portfolio-list-title {
     font-weight: 500;
@@ -179,7 +185,7 @@ background-color: #2e2f42;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -192,7 +198,7 @@ background-color: #2e2f42;
 .footer-text {
     font-weight: 400;
     font-size: 16px;
-    line-height: 1.17;
+    line-height: 1.15;
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
